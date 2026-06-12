@@ -83,10 +83,10 @@ img { max-width: 100%; display: block; }
   font-size: 18px;
   align-items: center;
   gap: 16px;
-  animation-duration: 38s;
+  animation-duration: 80s;
 }
 .marquee--top .marquee span { padding: 0; white-space: nowrap; }
-.marquee--top .m-word { font-weight: 500; text-transform: uppercase; letter-spacing: .03em; }
+.marquee--top .m-word { font-weight: 400; text-transform: uppercase; letter-spacing: .03em; }
 .marquee--top .m-word--bold { font-weight: 700; text-transform: none; letter-spacing: 0; }
 .marquee--top .m-star { font-weight: 700; color: var(--ink); line-height: 1; }
 
