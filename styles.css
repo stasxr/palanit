@@ -78,7 +78,17 @@ img { max-width: 100%; display: block; }
   background: var(--lime); border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink);
   padding: 8px 0;
 }
-.marquee--top .marquee { font-family: "Anton", sans-serif; text-transform: uppercase; font-size: 22px; }
+.marquee--top .marquee {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 18px;
+  align-items: center;
+  gap: 16px;
+  animation-duration: 38s;
+}
+.marquee--top .marquee span { padding: 0; white-space: nowrap; }
+.marquee--top .m-word { font-weight: 500; text-transform: uppercase; letter-spacing: .03em; }
+.marquee--top .m-word--bold { font-weight: 700; text-transform: none; letter-spacing: 0; }
+.marquee--top .m-star { font-weight: 700; color: var(--ink); line-height: 1; }
 
 .marquee--divider {
   background: var(--ink); color: var(--paper);
