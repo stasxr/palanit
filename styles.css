@@ -101,7 +101,7 @@ img { max-width: 100%; display: block; }
   border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink);
   padding: 16px 0;
 }
-.marquee--divider .marquee { font-family: "Anton", sans-serif; text-transform: uppercase; font-size: clamp(34px, 6vw, 56px); }
+.marquee--divider .marquee { font-family: "Anton", sans-serif; text-transform: uppercase; font-size: clamp(34px, 6vw, 56px); animation-duration: 32s; }
 .marquee--divider .star { color: var(--lime); }
 
 /* ---------- HERO ---------- */
@@ -233,7 +233,8 @@ img { max-width: 100%; display: block; }
 .contact__socials a:hover { color: var(--pop); }
 
 /* ---------- FOOTER ---------- */
-.footer { padding: 40px 0; }
+#contact { padding-bottom: 36px; }
+.footer { padding: 20px 0; }
 .footer__inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; }
 .footer__logo { font-family: "Anton", sans-serif; font-size: 24px; text-transform: uppercase; }
 .footer__note { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: rgba(10,10,10,.5); }
