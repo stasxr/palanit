@@ -1,5 +1,6 @@
 # Local tooling — not part of the site
 .claude/
+generate_og.py
 *.log
 .DS_Store
 Thumbs.db
