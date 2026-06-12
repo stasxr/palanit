@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#cdf546"/>
+  <rect x="0" y="0" width="1200" height="14" fill="#0a0a0a"/>
+  <rect x="0" y="616" width="1200" height="14" fill="#0a0a0a"/>
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="6" fill="#ff4326">VENTURE STUDIO</text>
+  <text x="72" y="380" font-family="Arial Black, Arial, sans-serif" font-size="220" font-weight="900" fill="#0a0a0a">PALANIT</text>
+  <text x="80" y="470" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#0a0a0a">We build products people actually use.</text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0a0a0a">Marketplaces · Platforms · Cybersecurity</text>
+</svg>
